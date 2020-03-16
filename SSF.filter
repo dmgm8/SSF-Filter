@@ -1,30 +1,3 @@
-#WELCOME! 
-#This is my Starting Off filter that's GUIDE SPECIFIC! So only use this filter if you're using one of my guides! When you're looking to minimize what's shown even more, upgrade to the "ALL SETUP" version of this filter. (Make sure you choose the right platform.)
-#If you're looking for my filters that include any type of build, scroll through my list of filters for the ones that have "EVERYONE" in the filter title.
-#So here are the nitty gritty details of my guide:
-#There are five tiers of items: Impossible, Epic, Sweet, Meh, and Arg. I have organzied all loot in the game into 6 catagories because loot filters are given 6 colour and shapes for map icons and effects. They are organized as such:
-#Collectables will have a Red theme with Hexagon map icons (Items from Fragment tabs, Essence tabs, Delve, etc.)
-#Currency will have a Blue theme with Diamond map icons (Items in the Currency Tab or gear that is sold for currency recepies)
-#Gear will have a Yellow theme with Square map icons
-#Impossible drops will have a white background but have text that match the colour theme of their filter catagory while also having a Star map icon.
-#League and Quest items will have a Green theme with Triangle map icons
-#Maps will have a White (grey) theme with Circle map icons (Maps in the map tab)
-#Unique items of all types will have a Brown theme but have a Hexagon map icon (this includes unique maps))
-
-#MY STARTING OFF GUIDE SPECIFIC FILTER!!!
-#All non-gear drops will show.
-#Gear: All gear will show until half way through Act 2. Then Normal gear will no longer show. Magic gear will show until the end of Act 3. Only RARE gear that is relevant to my guides will show. At item level 84+, only the top rare gear of each relevant Class will show. All Rare Jewels and Accessories will show at all times. All fancy gear (influenced, enchanted, etc.) will show no matter the rarity or basetype.
-#All Life and Mana flasks will show until the end of the campaign. Then only quality flasks will show. (During the Campaign, only the highest ranked flasks will show.)
-#Only quality and Vaal gems will show.
-#All chromatic recipes will show until the end of the campaign. Then only 1x3 chromatic recipes will show.
-
-#MY ALL SETUP GUIDE SPECIFIC FILTER!!!
-#It's the exact same as "WoDs Guide Specific STARTING OFF Filter" except it removes all common Rares that aren't top of their class, all levelling gear (in case you go back to help your friends level), all chromatic recipes larger than 1x3, and all Flasks and Gems below 10% quality. It still shows ALL types of currency, maps, and such.
-
-#MY NO LOW CURRENCY GUIDE SPECIFIC FILTER!!!
-#This is the "WoDs Guide Specific ALL SETUP Filter" but with no Low Currency drops. Low Currency is Scrolls of Wisdom, Portal Scrolls, Armourer's Scraps, Blacksmith's Whetstones, all chromatic recipes, and Flasks and Gems below 20%.
-
-
 #################Just Some Reference for Myself: Tiers Templates (Obviously with some exceptions):
 #Impossible (Mirror)         Epic (Exalt)                Sweet (Chaos)                Meh (Armourer)
 #SetBorderColor Theme        SetBorderColor White        SetBorderColor White         SetBorderColor White
